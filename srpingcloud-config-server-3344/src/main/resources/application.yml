@@ -8,6 +8,6 @@ spring:
 
   cloud:
     config:
-      server: 1111
+      server:
         git:
           uri:
